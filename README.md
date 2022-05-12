@@ -9,8 +9,8 @@ b)  Define a set of relationships that might exist between/among entities and at
  
 c)  Define a set of constraints that may be imposed on data.
 
-2) - Define an E-R Diagram for your database design.
-3) - Define a relational schema for your database design.
+2)  Define an E-R Diagram for your database design.
+3)  Define a relational schema for your database design.
 Make sure that you have both one-to-many and many-to-many associations.
 a)-Define one or more realistic key(s) for every relation scheme. Use both simple and composite keys.
 b)-Define a realistic set of Functional / Multi-Valued Dependencies (when appropriate) for every
