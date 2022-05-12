@@ -1,13 +1,13 @@
 # MySQL_Military-DB
 
-1) - Define the information content of your database.
+1)  Define the information content of your database.
 
-a) - Define a set of entities and appropriate attributes for each entity. 
+a)  Define a set of entities and appropriate attributes for each entity. 
 
-b) - Define a set of relationships that might exist between/among entities and attributes. Such 
+b)  Define a set of relationships that might exist between/among entities and attributes. Such 
  relationships may include one-to-one, one-to-many and many-to-many associations.
  
-c) - Define a set of constraints that may be imposed on data.
+c)  Define a set of constraints that may be imposed on data.
 
 2) - Define an E-R Diagram for your database design.
 3) - Define a relational schema for your database design.
